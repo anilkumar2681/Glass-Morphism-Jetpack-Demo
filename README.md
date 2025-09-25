@@ -28,7 +28,7 @@ It demonstrates how to implement frosted glass UI elements that blur the backgro
 - Clone the repository:
 
 ```bash
-   git clone https://github.com/anilkumar2681/glass-morphism_example.git
+   git clone https://github.com/anilkumar2681/Glass-Morphism-Jetpack-Demo.git
 ```
 
 - Open the project in Android Studio.
