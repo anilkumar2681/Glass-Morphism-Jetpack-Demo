@@ -1,5 +1,7 @@
 # Glass-morphism Example Using Jetpack Compose
 
+![banner](screenshots/repo_banner.png)
+
 ## Overview
 
 This project showcases the Glass-morphism design trend in Android development using **Kotlin and Jetpack Compose**. 
